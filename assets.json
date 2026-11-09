@@ -1,0 +1,144 @@
+{
+  "assets": [
+    {
+      "name": "bg_main",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_main.png",
+      "prompt": "Vertical 9:16 mobile game background, a luxury gemstone hall interior, deep violet velvet walls, faceted jewel lighting glowing from below, warm gold trim arches along the sides, restrained sparkle, centre of the frame kept clear and uncluttered for UI, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no UI, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_game.png",
+      "prompt": "Vertical 9:16 mobile game background, a dim gemstone hall alcove, deep violet gradient from near black at the top to dark plum at the bottom, soft blurred gold trim only at the far edges, very low contrast and almost empty through the centre so UI reads on top, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no UI, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_gem_amethyst",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_gem_amethyst.png",
+      "prompt": "One single cut purple amethyst gemstone, front view, symmetric, not directional, centred and fully in frame, crisp faceted silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_gem_topaz",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_gem_topaz.png",
+      "prompt": "One single cut golden topaz gemstone, front view, symmetric, not directional, centred and fully in frame, crisp faceted silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_gem_emerald",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_gem_emerald.png",
+      "prompt": "One single cut green emerald gemstone, front view, symmetric, not directional, centred and fully in frame, crisp faceted silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_gem_sapphire",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_gem_sapphire.png",
+      "prompt": "One single cut blue sapphire gemstone, front view, symmetric, not directional, centred and fully in frame, crisp faceted silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_gem_ruby",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_gem_ruby.png",
+      "prompt": "One single cut red ruby gemstone, front view, symmetric, not directional, centred and fully in frame, crisp faceted silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_gem_crown",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_gem_crown.png",
+      "prompt": "One single small golden crown set with violet gemstones, front view, symmetric, not directional, centred and fully in frame, crisp silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_wild_prism",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_wild_prism.png",
+      "prompt": "One single clear faceted prism shard with a rainbow refraction core and a thin gold collar around its middle, front view, symmetric, not directional, centred and fully in frame, crisp silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_scatter_lantern",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_scatter_lantern.png",
+      "prompt": "One single ornate gold lantern with a glowing violet gemstone inside, front view, symmetric, not directional, centred and fully in frame, crisp silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_emblem_hall",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_emblem_hall.png",
+      "prompt": "One single abstract heraldic emblem, a faceted violet prism standing inside a plain gold ring, front view, symmetric, not directional, centred and fully in frame, crisp silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, absolutely no letters and no text, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_coin_stack",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_coin_stack.png",
+      "prompt": "One single small stack of golden casino tokens with violet gem centres, front view, symmetric, not directional, centred and fully in frame, crisp silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no numbers, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_hall_crest_lock",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_hall_crest_lock.png",
+      "prompt": "One single empty gem setting, a hollow gold claw mount with no stone in it, front view, symmetric, not directional, centred and fully in frame, crisp silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_win_burst",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_win_burst.png",
+      "prompt": "One single soft round golden light bloom fading smoothly outward from a bright centre, front view, symmetric, not directional, centred and fully in frame, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no other objects, no plus shaped sparkles, no six ray snowflake stars, no bokeh dots, no outlined rings, NOT a photo, no photorealism, no DSLR, no lens flare"
+    },
+    {
+      "name": "sprite_close_cross",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_close_cross.png",
+      "prompt": "One single thick gold X close glyph with bevelled faceted edges, front view, symmetric, not directional, centred and fully in frame, crisp silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_icon_back",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_back.png",
+      "prompt": "One single thick gold chevron glyph pointing LEFT, side view, facing LEFT, asymmetric, centred and fully in frame, crisp bevelled silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_icon_pause",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_pause.png",
+      "prompt": "One single pause glyph made of two thick upright gold bars side by side with a gap between them, front view, symmetric, not directional, centred and fully in frame, crisp bevelled silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_icon_daily",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_daily.png",
+      "prompt": "One single closed gold gift casket with a violet gem clasp on its lid, front view, symmetric, not directional, centred and fully in frame, crisp silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_icon_album",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_album.png",
+      "prompt": "One single closed gold display case shaped like a flat book with three small round gem slots set into its cover, front view, symmetric, not directional, centred and fully in frame, crisp silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    },
+    {
+      "name": "sprite_icon_settings",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_settings.png",
+      "prompt": "One single gold gear wheel with a faceted violet gemstone set in its hub, front view, symmetric, not directional, centred and fully in frame, crisp silhouette, stylized 3D game art, glossy faceted gemstone render, chunky clean forms, warm gold trim, soft studio lighting, mobile game asset, no text, no other objects, NOT a photo, no photorealism, no DSLR, no bokeh, no lens flare"
+    }
+  ]
+}
